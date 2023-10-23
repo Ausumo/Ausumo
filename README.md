@@ -1,4 +1,4 @@
-**DE:**
+# **DE:**
 Hallo zusammen! 👋
 Mein Name ist David, und ich bin ein begeisterter Spieleentwickler. Hier sind einige Informationen über mich:
 
@@ -12,7 +12,7 @@ Mein Name ist David, und ich bin ein begeisterter Spieleentwickler. Hier sind ei
 
 Ich freue mich darauf, mehr über die spannende Welt der Spieleentwicklung zu erfahren und mit anderen Gleichgesinnten in Kontakt zu treten. Lass uns gemeinsam neue Abenteuer schaffen! 😄🎮
 
-**EN:**
+# **EN:**
 Hello everyone! 👋 My name is David, and I'm an enthusiastic game developer. Here's some information about me:
 
 🔭 Currently, I'm passionately working on my own video game project. The world of game development offers endless opportunities for creativity, and I enjoy bringing my vision to digital reality.
