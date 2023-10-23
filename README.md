@@ -1,4 +1,4 @@
-##Hallo zusammen! 👋
+Hallo zusammen! 👋
 Mein Name ist David, und ich bin ein begeisterter Spieleentwickler. Hier sind einige Informationen über mich:
 
 🔭 Zurzeit arbeite ich leidenschaftlich an meinem eigenen Videospielprojekt. Die Welt der Spieleentwicklung bietet endlose Möglichkeiten für Kreativität, und ich genieße es, meine Vision in digitale Realität umzusetzen.
