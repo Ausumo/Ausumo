@@ -1,20 +1,3 @@
-# **DE:**
-Hallo zusammen! 👋 Mein Name ist David, und ich bin ein leidenschaftlicher Spieleentwickler. Hier sind einige Infos über mich:
-
-🔭 Zurzeit arbeite ich begeistert an meinem Videospielprojekt King’s Table: Hnefatafl, einer digitalen Umsetzung des historischen Wikinger-Brettspiels. Die Welt der Spieleentwicklung bietet endlose Möglichkeiten für Kreativität, und ich liebe es, meine Vision in digitale Realität umzusetzen.
-
-🌱 Als lebenslanger Lernender erweitere ich ständig meine Fähigkeiten. Meistens arbeite ich in Unity, vertiefe aber auch mein Wissen in C++ mit der Unreal Engine 5. Besonders spannend finde ich die Themen Multiplayer‑Networking und Steam‑Integration, in denen ich mich intensiv weiterentwickle.
-
-🌟 Mein Studium an der SAE Wien habe ich erfolgreich abgeschlossen und bin nun als Supervisor tätig. Dort unterstütze ich andere Studierende dabei, ihre Projekte erfolgreich umzusetzen und ihre Leidenschaft für Spieleentwicklung zu vertiefen.
-
-📫 Wenn du Fragen hast oder einfach über Spiele, Programmierung oder Technologie plaudern möchtest, erreichst du mich am besten auf Discord. Mein Benutzername ist "ausumo," und ich freue mich immer über spannende Gespräche und den Austausch von Ideen.
-
-⚡ Fun Fact: Wusstest du, dass der kürzeste Krieg der Geschichte zwischen Großbritannien und Sansibar am 27. August 1896 stattfand und nur 38 Minuten dauerte? Eine kuriose Episode, die zeigt, wie unerwartet sich Ereignisse entwickeln können.
-
-Ich freue mich darauf, mehr über die faszinierende Welt der Spieleentwicklung zu lernen und mit Gleichgesinnten in Kontakt zu treten. Lass uns gemeinsam neue Abenteuer schaffen! 😄🎮
-
-Hinweis: Dieser Text wurde mithilfe von AI generiert.
-
 # **EN:**
 Hello everyone! 👋 My name is David, and I'm a passionate game developer. Here’s a bit about me:
 
@@ -31,3 +14,20 @@ Hello everyone! 👋 My name is David, and I'm a passionate game developer. Here
 I’m excited to keep learning about the fascinating world of game development and connect with fellow enthusiasts. Let’s create new adventures together! 😄🎮
 
 Note: This text was generated with the help of AI.
+
+# **DE:**
+Hallo zusammen! 👋 Mein Name ist David, und ich bin ein leidenschaftlicher Spieleentwickler. Hier sind einige Infos über mich:
+
+🔭 Zurzeit arbeite ich begeistert an meinem Videospielprojekt King’s Table: Hnefatafl, einer digitalen Umsetzung des historischen Wikinger-Brettspiels. Die Welt der Spieleentwicklung bietet endlose Möglichkeiten für Kreativität, und ich liebe es, meine Vision in digitale Realität umzusetzen.
+
+🌱 Als lebenslanger Lernender erweitere ich ständig meine Fähigkeiten. Meistens arbeite ich in Unity, vertiefe aber auch mein Wissen in C++ mit der Unreal Engine 5. Besonders spannend finde ich die Themen Multiplayer‑Networking und Steam‑Integration, in denen ich mich intensiv weiterentwickle.
+
+🌟 Mein Studium an der SAE Wien habe ich erfolgreich abgeschlossen und bin nun als Supervisor tätig. Dort unterstütze ich andere Studierende dabei, ihre Projekte erfolgreich umzusetzen und ihre Leidenschaft für Spieleentwicklung zu vertiefen.
+
+📫 Wenn du Fragen hast oder einfach über Spiele, Programmierung oder Technologie plaudern möchtest, erreichst du mich am besten auf Discord. Mein Benutzername ist "ausumo," und ich freue mich immer über spannende Gespräche und den Austausch von Ideen.
+
+⚡ Fun Fact: Wusstest du, dass der kürzeste Krieg der Geschichte zwischen Großbritannien und Sansibar am 27. August 1896 stattfand und nur 38 Minuten dauerte? Eine kuriose Episode, die zeigt, wie unerwartet sich Ereignisse entwickeln können.
+
+Ich freue mich darauf, mehr über die faszinierende Welt der Spieleentwicklung zu lernen und mit Gleichgesinnten in Kontakt zu treten. Lass uns gemeinsam neue Abenteuer schaffen! 😄🎮
+
+Hinweis: Dieser Text wurde mithilfe von AI generiert.
