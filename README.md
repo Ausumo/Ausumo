@@ -1,7 +1,7 @@
 # **DE:**
 Hallo zusammen! 👋 Mein Name ist David, und ich bin ein leidenschaftlicher Spieleentwickler. Hier sind einige Infos über mich:
 
-🔭 Zurzeit arbeite ich begeistert an meinem eigenen Videospielprojekt. Die Welt der Spieleentwicklung bietet endlose Möglichkeiten für Kreativität, und ich liebe es, meine Vision in digitale Realität umzusetzen.
+🔭 Zurzeit arbeite ich begeistert an meinem Videospielprojekt King’s Table: Hnefatafl, einer digitalen Umsetzung des historischen Wikinger-Brettspiels. Die Welt der Spieleentwicklung bietet endlose Möglichkeiten für Kreativität, und ich liebe es, meine Vision in digitale Realität umzusetzen.
 
 🌱 Als lebenslanger Lernender erweitere ich ständig meine Fähigkeiten. Meistens arbeite ich in Unity, vertiefe aber auch mein Wissen in C++ mit der Unreal Engine 5. Besonders spannend finde ich die Themen Multiplayer‑Networking und Steam‑Integration, in denen ich mich intensiv weiterentwickle.
 
@@ -18,7 +18,7 @@ Hinweis: Dieser Text wurde mithilfe von AI generiert.
 # **EN:**
 Hello everyone! 👋 My name is David, and I'm a passionate game developer. Here’s a bit about me:
 
-🔭 Currently, I’m working enthusiastically on my own video game project. The world of game development offers endless opportunities for creativity, and I love bringing my vision to digital reality.
+🔭 Currently, I’m working enthusiastically on my video game project King’s Table: Hnefatafl, a digital adaptation of the historic Viking board game. The world of game development offers endless opportunities for creativity, and I love bringing my vision to digital reality.
 
 🌱 As a lifelong learner, I’m constantly expanding my skills. I mostly work in Unity, but I also deepen my knowledge in C++ with Unreal Engine 5. I’m especially focused on multiplayer networking and Steam integration, areas where I’ve been developing strong expertise.
 
