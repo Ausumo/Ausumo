@@ -1,6 +1,8 @@
 # **EN:**
 Hello everyone! 👋 My name is David, and I'm a passionate game developer. Here’s a bit about me:
 
+My Itch.io page: https://riftstonegames.itch.io/
+
 🔭 Currently, I’m working enthusiastically on my video game project King’s Table: Hnefatafl, a digital adaptation of the historic Viking board game. The world of game development offers endless opportunities for creativity, and I love bringing my vision to digital reality.
 
 🌱 As a lifelong learner, I’m constantly expanding my skills. I mostly work in Unity, but I also deepen my knowledge in C++ with Unreal Engine 5. I’m especially focused on multiplayer networking and Steam integration, areas where I’ve been developing strong expertise.
@@ -17,6 +19,8 @@ Note: This text was generated with the help of AI.
 
 # **DE:**
 Hallo zusammen! 👋 Mein Name ist David, und ich bin ein leidenschaftlicher Spieleentwickler. Hier sind einige Infos über mich:
+
+Meine Itch.io Seite: https://riftstonegames.itch.io/
 
 🔭 Zurzeit arbeite ich begeistert an meinem Videospielprojekt King’s Table: Hnefatafl, einer digitalen Umsetzung des historischen Wikinger-Brettspiels. Die Welt der Spieleentwicklung bietet endlose Möglichkeiten für Kreativität, und ich liebe es, meine Vision in digitale Realität umzusetzen.
 
