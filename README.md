@@ -5,6 +5,8 @@ My Itch.io page: https://riftstonegames.itch.io/
 
 🔭 Currently, I’m working enthusiastically on my video game project King’s Table: Hnefatafl, a digital adaptation of the historic Viking board game. The world of game development offers endless opportunities for creativity, and I love bringing my vision to digital reality.
 
+Wishlist Now: https://store.steampowered.com/app/1452330/Kings_Table_hnefatafl/
+
 🌱 As a lifelong learner, I’m constantly expanding my skills. I mostly work in Unity, but I also deepen my knowledge in C++ with Unreal Engine 5. I’m especially focused on multiplayer networking and Steam integration, areas where I’ve been developing strong expertise.
 
 🌟 I successfully completed my studies at SAE Vienna and now serve as a Supervisor, supporting students in bringing their projects to life and deepening their passion for game development.
@@ -23,6 +25,8 @@ Hallo zusammen! 👋 Mein Name ist David, und ich bin ein leidenschaftlicher Spi
 Meine Itch.io Seite: https://riftstonegames.itch.io/
 
 🔭 Zurzeit arbeite ich begeistert an meinem Videospielprojekt King’s Table: Hnefatafl, einer digitalen Umsetzung des historischen Wikinger-Brettspiels. Die Welt der Spieleentwicklung bietet endlose Möglichkeiten für Kreativität, und ich liebe es, meine Vision in digitale Realität umzusetzen.
+
+Wishlist Now: https://store.steampowered.com/app/1452330/Kings_Table_hnefatafl/
 
 🌱 Als lebenslanger Lernender erweitere ich ständig meine Fähigkeiten. Meistens arbeite ich in Unity, vertiefe aber auch mein Wissen in C++ mit der Unreal Engine 5. Besonders spannend finde ich die Themen Multiplayer‑Networking und Steam‑Integration, in denen ich mich intensiv weiterentwickle.
 
