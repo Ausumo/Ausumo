@@ -17,8 +17,6 @@ Wishlist Now: https://store.steampowered.com/app/1452330/Kings_Table_hnefatafl/
 
 I’m excited to keep learning about the fascinating world of game development and connect with fellow enthusiasts. Let’s create new adventures together! 😄🎮
 
-Note: This text was generated with the help of AI.
-
 # **DE:**
 Hallo zusammen! 👋 Mein Name ist David, und ich bin ein leidenschaftlicher Spieleentwickler. Hier sind einige Infos über mich:
 
@@ -37,5 +35,3 @@ Wishlist Now: https://store.steampowered.com/app/1452330/Kings_Table_hnefatafl/
 ⚡ Fun Fact: Wusstest du, dass der kürzeste Krieg der Geschichte zwischen Großbritannien und Sansibar am 27. August 1896 stattfand und nur 38 Minuten dauerte? Eine kuriose Episode, die zeigt, wie unerwartet sich Ereignisse entwickeln können.
 
 Ich freue mich darauf, mehr über die faszinierende Welt der Spieleentwicklung zu lernen und mit Gleichgesinnten in Kontakt zu treten. Lass uns gemeinsam neue Abenteuer schaffen! 😄🎮
-
-Hinweis: Dieser Text wurde mithilfe von AI generiert.
